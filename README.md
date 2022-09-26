@@ -1,2 +1,2 @@
-# CSI_3370
+# CSI_3370/ Fall 2022
  Course Project
